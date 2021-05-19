@@ -1,0 +1,6 @@
+<Control xmlns="https://spacestation14.io"
+         HorizontalExpand="True" VerticalExpand="True" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+    <HBoxContainer Margin="10 10 10 10" Align="Center" SeparationOverride="50" HorizontalExpand="True">
+        <Label Name="A" Text="AAAAAAAAAAAAAA"></Label>
+    </HBoxContainer>
+</Control>

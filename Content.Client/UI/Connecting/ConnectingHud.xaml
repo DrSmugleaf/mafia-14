@@ -1,0 +1,7 @@
+<Control xmlns="https://spacestation14.io"
+         HorizontalExpand="True" VerticalExpand="True" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <VBoxContainer>
+        <Label Name="MessageLabel" />
+        <Button Name="ReconnectButton" Text="Reconnect" Visible="false" TextAlign="Center" />
+    </VBoxContainer>
+</Control>

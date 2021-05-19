@@ -4,6 +4,6 @@ namespace Content.Client
     {
         public static string[] List => new string[] {
             // Stick prototypes you want ignored here.
-        }; 
+        };
     }
 }
